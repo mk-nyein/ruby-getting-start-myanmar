@@ -1,0 +1,5 @@
+# Original Source guides.rubyonrails.org
+## 2 What is Rails?
+Rails ဆိုတာက web application development frame ပါ။ အဲ့ဒီမှာ web application or web app ဆိုတာက client-server program ပါ။ client နဲ့ server ကြား ဆက်သွယ်မှုလုပ်နိုင်တဲ့ program ကို browser ကနေ တဆင့်သုံးလို့ရအောင် ရေးထားတာပါ။ အဲ့လို web app တွေ ရေးဖို့ အဆင်သင့်နည်းပါ လုပ်ပေးထားတဲ့ frame work ပါ။ rails (ruby on rails) က back-end, front-end, api only(api only ဆို များသောအားဖြင့် Sinatra နဲ့ ရေးတယ်) ရေးလို့ရတယ်။ တခြား နာမည်ကြီး programming language တွေက အဲ့လို သုံးမျိုးလုံး ရေးနိုင်တာမျိုးသိပ်ရှိဘူး။ ဥပမာ - node.js ဆို server site (back-end)နဲ့ api ပဲရေးလို့ရတယ်. front-end အတွက်ဆို တခြား front-end javascript frameworks (angular.js, react.js, vue.js, express.js, ...) တွေလိုတယ်.
+
+Ruby က developer အတွက် ရည်ရွယ်ပြီးရေးထားတဲ့ programming language ဖြစ်လို့ လူနားလည်လွယ်တယ်။ အဲ့ဒီ ruby ကို အခြေခံပြီး rails ကို ရေးထားတာဖြစ်တယ်။ rails က MVC လို့ ခေါ်တဲ့ model, view, controller pattern ကိုသုံးထားပါတယ်။ MVC ဆိုတာက  data store model (aka database) သတ်သတ်၊ user ကို ပြတဲ့ UI view သတ်သတ်, အလုပ်လုပ်တဲ့ definitions( aka functions, methods) သတ်သတ် ခွဲ ရေးထားတာကို ပြောတာပါ။
